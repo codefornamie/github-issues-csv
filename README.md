@@ -27,7 +27,7 @@ cp config.sample.yml config.yml
 
 ```
 bundle install
-bundle exec ruby github_issues_csv.ruby
+bundle exec ruby github_issues_csv.rb
 ```
 
 
