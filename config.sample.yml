@@ -1,0 +1,5 @@
+github:
+    credential:
+        username: foo
+        password: bar
+    repository: user/repo
